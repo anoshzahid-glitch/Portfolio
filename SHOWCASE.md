@@ -134,7 +134,7 @@ A **3D interactive portfolio platform** that makes your code impossible to ignor
 
 ## Open Source Philosophy
 
-**Free forever. MIT licensed.**
+**Built with modern web technologies.**
 
 Why open source?
 - Help other developers succeed
@@ -177,7 +177,7 @@ Free hosting, automatic SSL, global CDN. Live in 60 seconds.
 - Integrated AI for automatic code documentation
 - Built type-safe architecture with TypeScript
 - Achieved 95+ Lighthouse performance score
-- Open-sourced under MIT license
+- Modern, production-ready codebase
 
 ### Technologies
 Next.js • React • TypeScript • Three.js • Framer Motion • TailwindCSS • WebGL • Git

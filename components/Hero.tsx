@@ -77,7 +77,7 @@ export function Hero() {
             {[
               { label: 'Interactive 3D', value: '100%' },
               { label: 'AI Powered', value: 'GPT-4' },
-              { label: 'Open Source', value: 'MIT' },
+              { label: 'Modern Tech', value: 'Next.js' },
             ].map((stat, i) => (
               <div key={i} className="glass-panel p-4 rounded-lg">
                 <div className="text-2xl md:text-3xl font-bold text-cyber-blue mb-1">

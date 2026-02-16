@@ -2,7 +2,6 @@
 
 > Transform your GitHub projects into an interactive, immersive 3D experience that makes recruiters stop scrolling.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-14.0-black)
 ![React](https://img.shields.io/badge/React-18.2-blue)
 ![Three.js](https://img.shields.io/badge/Three.js-0.160-green)
@@ -32,7 +31,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/codecanvas.git
+git clone https://github.com/Hammad338/codecanvas.git
 cd codecanvas
 ```
 
@@ -71,7 +70,7 @@ export const sampleProjects: Project[] = [
       // Your code snippet here
       const awesome = true;
     `,
-    githubUrl: 'https://github.com/yourusername/project',
+    githubUrl: 'https://github.com/Hammad338/project',
     liveUrl: 'https://your-project.com',
     color: '#00d9ff', // Hex color for the card
     position: [0, 0, 0] // 3D position (auto-calculated if omitted)
@@ -184,9 +183,9 @@ Contributions are welcome! Here's how:
 - [ ] Social sharing optimizations
 - [ ] Performance optimizations for mobile
 
-## 📄 License
+## 📄 Copyright
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+© 2026 Hammad Alam. All rights reserved.
 
 ## 🙏 Acknowledgments
 
@@ -196,9 +195,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/codecanvas/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/codecanvas/discussions)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **Issues:** [GitHub Issues](https://github.com/Hammad338/codecanvas/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Hammad338/codecanvas/discussions)
 
 ## ⭐ Show Your Support
 
@@ -206,6 +204,6 @@ If this project helped you land your dream job or inspired you to create somethi
 
 ---
 
-**Built with 💙 by [Your Name](https://github.com/yourusername)**
+**Built with 💙 by [Hammad Alam](https://github.com/Hammad338)**
 
 *Making portfolios awesome, one 3D card at a time.*

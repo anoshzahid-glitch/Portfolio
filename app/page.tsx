@@ -183,7 +183,7 @@ export default function Home() {
             </a>
           </p>
           <p className="text-gray-500 text-sm">
-            © {new Date().getFullYear()} CodeCanvas. Open source under MIT License.
+            © {new Date().getFullYear()} CodeCanvas. All rights reserved.
           </p>
         </div>
       </footer>
